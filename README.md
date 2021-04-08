@@ -1,4 +1,8 @@
+Le projet sera accessible via ce lien : http://localhost/manobi-test/ sur votre machine Locale
+Le fichier test.sql contient quelques données pour tester.
+
 Documentation:
+
 
 Ce mini framework est développé par Abdourahmane DIALLO.
 C'est une architecture qui respecte les spécifications du design pattern MVC.
